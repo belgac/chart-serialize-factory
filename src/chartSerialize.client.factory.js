@@ -1,4 +1,4 @@
-angular.module('magicManagerApp.chartSerialize.factory', [])
+angular.module('chartSerialize.factory', [])
   .factory('chartSerializeFactory', chartSerializeFactory);
   
   function chartSerializeFactory(){
